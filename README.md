@@ -5,5 +5,5 @@ This project is a movie details search engine, it is coded in JavaScript with th
 User is able to find the details of a specific movie through this application platform.
 An API wasn't able to work on that time of test, hence I have created some mock data to present this project.
 
-##### Examples
-![](assets/images/electrocat.png)
+### Example:
+<img src="https://github.com/ren-tao01/Movie-Search-Engine-ReactNative/blob/main/assets/images/movie_search.PNG" alt="Your image title" width="400"/>
