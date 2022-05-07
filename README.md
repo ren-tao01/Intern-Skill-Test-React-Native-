@@ -6,4 +6,4 @@ User is able to find the details of a specific movie through this application pl
 An API wasn't able to work on that time of test, hence I have created some mock data to present this project.
 
 ##### Examples
-![This is an image]()
+![](assets/images/electrocat.png)
